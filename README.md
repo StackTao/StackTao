@@ -1,30 +1,26 @@
+👋 你好，我是 **StackTao**。我做开发者工具，也写中文技术笔记。
+
+[个人博客](https://stacktao.cn/) · [留言墙](https://stacktao.cn/#/guestbook) · [参与和支持](https://stacktao.cn/#/sponsors)
+
+**📊 关注方向**
+
+```text
+IDE 工具 / Spring 接口调试与同步
+AI 编程  / Claude Code 实战与协作
+桌面工具 / 本地编辑、预览、分流
+```
+
+**📈 GitHub 统计**
+
 <p align="center">
-  <img src="https://stacktao.cn/favicon.svg" alt="" width="56" height="56">
-</p>
-
-<h1 align="center">StackTao</h1>
-
-<p align="center">我做开发者工具，也写中文技术笔记。</p>
-
-<p align="center">
-  <a href="https://stacktao.cn/">个人博客</a>
-  ·
-  <a href="https://stacktao.cn/#/guestbook">留言墙</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=StackTao&amp;show_icons=true&amp;theme=gotham&amp;locale=cn" alt="StackTao 的 GitHub 统计" width="465">
 </p>
 
 ## 造物
 
-### [ShowDoc RunAPI](https://github.com/StackTao/runapi-plugin)
-
-在 IntelliJ IDEA 里扫描和调试 Spring MVC 接口，并把接口批量同步到自部署的 ShowDoc RunAPI。
-
-### [Claude Code Guide](https://github.com/StackTao/ClaudeCodeGuide)
-
-一份面向中文开发者的共建手册，整理 Claude Code 的命令、Skills、MCP 和真实项目里的协作经验。
-
-### [StackTao Site](https://github.com/StackTao/stacktao-site)
-
-我的个人博客源码。文章用 Markdown 写作，页面可静态发布，站里还有相册和留言墙。
+- **[ShowDoc RunAPI](https://github.com/StackTao/runapi-plugin)** · 在 IntelliJ IDEA 里扫描和调试 Spring MVC 接口，并把接口批量同步到自部署的 ShowDoc RunAPI。
+- **[Claude Code Guide](https://github.com/StackTao/ClaudeCodeGuide)** · 一份面向中文开发者的共建手册，整理 Claude Code 的命令、Skills、MCP 和真实项目里的协作经验。
+- **[StackTao Site](https://github.com/StackTao/stacktao-site)** · 我的个人博客源码。文章用 Markdown 写作，页面可静态发布，站里还有相册和留言墙。
 
 ## 协作项目
 
