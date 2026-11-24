@@ -12,6 +12,18 @@ AI 编程  / Claude Code 实战与协作
 
 **📈 GitHub 统计**
 
+**🤝 协作贡献 · 120 次提交**
+
+| 协作项目 | 我的公开提交 |
+| --- | ---: |
+| [RoutePilot](https://github.com/search?type=commits&q=author%3AStackTao%20repo%3Alikehao19%2FXeylroute) | 55 |
+| [InkNote](https://github.com/search?type=commits&q=author%3AStackTao%20repo%3Alikehao19%2FInkNote) | 39 |
+| [SpacePreview](https://github.com/search?type=commits&q=author%3AStackTao%20repo%3Alikehao19%2FSpacePreview) | 26 |
+
+统计于 2026-11-24，范围为各仓库默认分支上署名为 `StackTao` 的公开提交。
+
+**个人 GitHub 统计**
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StackTao&amp;show_icons=true&amp;theme=gotham&amp;locale=cn" alt="StackTao 的 GitHub 统计" width="465">
 </p>
